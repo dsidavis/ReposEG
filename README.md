@@ -1,0 +1,1 @@
+This is a sample repository for exploring how to use git.
